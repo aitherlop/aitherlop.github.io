@@ -1,15 +1,15 @@
 h1, h2, h3, h4, .w3-button {
   font-family: 'Orbitron', sans-serif;
   letter-spacing: 2px;  
-  color: #eb5013;
+  color: #13eb1e;
 }
 
 .w3-button {
-  color: #eb5013 !important;
+  color: #13eb1e !important;
 }
 
 .w3-button:hover {
-  background-color: #eb5013 !important;
+  background-color: #13eb1e !important;
 }
 
 .w3-button.w3-red {
@@ -25,7 +25,7 @@ h1, h2, h3, h4, .w3-button {
 }
 
 .mySlides h3 {
-  color: #eb5013;
+  color: #13eb1e;
 }
 
 .mySlides p {
@@ -39,15 +39,15 @@ h1, h2, h3, h4, .w3-button {
 
 .minavbar {
   font-family: 'Orbitron', sans-serif;
-  color:#eb5013 !important;
+  color:#13eb1e !important;
 }
 
 .minavbar a {
-  color:#eb5013 !important;
+  color:#13eb1e !important;
 }
 
 .minavbar a:hover {
-  background-color: #eb5013 !important;
+  background-color: #13eb1e !important;
 }
 
 .image-circle {
@@ -55,7 +55,7 @@ h1, h2, h3, h4, .w3-button {
 }
 
 .band-image {
-  border: 5px solid #eb5013;
+  border: 5px solid #13eb1e;
   margin-bottom: 25px;
   width: 80%;
   height: 80%;
@@ -63,6 +63,6 @@ h1, h2, h3, h4, .w3-button {
 }
 
 footer.w3-container {
-  background-color: #eb5013 !important;
+  background-color: #13eb1e !important;
   opacity: 0.9;
 }
